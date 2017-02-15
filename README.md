@@ -2,18 +2,26 @@
 
 *Work in progress*
 
-#Getting started
+# Getting started
 
-Run the API `cd api/ && npm run start` then run UI `cd ui/ && npm run start`
+### Install and run the API:
 
-# UI
+  - `cd api/ && npm i`
+  - `npm run start`
+
+### Install and run the UI
+
+ - `cd ui/ && && npm i`
+ - `npm run start`
+
+# UI Tasks`
 
 - Start: `npm run start`
 - Build: `npm run build`
 - Test: `npm run test`
 - Eject: `npm run eject`
 
-# API
+# API Tasks
 
 - Start: `npm run start`
 - Watch: `npm run watch`
