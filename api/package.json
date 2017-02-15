@@ -1,8 +1,9 @@
 {
   "name": "url-shortner-api",
   "version": "1.0.0",
-  "description": "Simple url shortner example",
+  "description": "Simple url shortner api example",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "logs": "./node_modules/pm2/bin/pm2 logs",
     "watch": "./node_modules/pm2/bin/pm2 start index.js --name api --watch",

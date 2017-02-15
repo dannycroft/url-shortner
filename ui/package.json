@@ -1,7 +1,11 @@
 {
   "name": "ui",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Simple url shortner ui example",
   "private": true,
+  "author": "hello@dannycroft.co.uk",
+  "license": "ISC",
+  "main": "src/index.js",
   "devDependencies": {
     "eslint": "^3.15.0",
     "eslint-config-airbnb": "^14.1.0",
